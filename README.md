@@ -1,9 +1,9 @@
 # Phase 2 Code Challenge: Plantsy
 
+
 ## Demo screenshot
 
-
-<img width="1200" height="734" alt="Screenshot from 2025-12-09 13-41-01" src="https://github.com/user-attachments/assets/4d6b39e0-e85e-40a4-9866-e056449c9788" />
+<img width="1850" height="1053" alt="Screenshot from 2026-02-20 14-41-09" src="https://github.com/user-attachments/assets/f2751576-23e3-43de-84b1-c7d9fa6d36ee" />
 
 ## Setup
 
