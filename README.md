@@ -2,8 +2,7 @@
 
 
 ## Demo screenshot
-
-<img width="1850" height="1053" alt="Screenshot from 2026-02-20 14-41-09" src="https://github.com/user-attachments/assets/f2751576-23e3-43de-84b1-c7d9fa6d36ee" />
+<img width="1850" height="1053" alt="Screenshot from 2026-02-21 22-04-19" src="https://github.com/user-attachments/assets/17425705-d87d-4d2b-b28d-6a39ea37251f" />
 
 ## Setup
 
