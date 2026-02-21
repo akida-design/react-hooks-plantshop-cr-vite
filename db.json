@@ -1,46 +1,55 @@
 {
   "plants": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "isSoldOut": true
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "isSoldOut": true
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
       "price": 5.99
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Pothos",
       "image": "./images/pothos.jpg",
       "price": 12.11
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Jade",
       "image": "./images/jade.jpg",
       "price": 10.37
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
       "price": 25.99
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "a9b5",
+      "name": "Acacia",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExMWFhUXGBgYGRgXFxcZGxodHRgXHhcXHRgYHSggGholHRgaITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUtLS01LS0vLTAvNS8tLTAtKy0uLS0tLS0tLS0tLy0wLS0tLS0vLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAFBgMEAAIHAQj/xAA/EAACAQMCBAQEAwYFAwQDAAABAhEAAyEEEgUxQVEGEyJhMnGBkUKhwQcUI1Kx8DNictHhJILxFYOSshY0Q//EABsBAAIDAQEBAAAAAAAAAAAAAAMEAQIFAAYH/8QAMxEAAQQBAwIEBQEIAwAAAAAAAQACAxEhBBIxQVEFEyJhMnGBwfChBhQzQpGx0eEjQ1L/2gAMAwEAAhEDEQA/APPGPC31NhbFoKLlsgxMbgMET1NCvCGlv2VdbysoGNrdu4qjxnjmrfXoLQLyICKpyAx5joadRqtTbYjWeXsZAUBIDA9VHeKDp3mIgvHvjkK72eYzHKH+H9OJ1JPwI5bHcgED6mraDAmqvB9UreeluWtM4YHHOB2q/Fbehe6QF544H0WVqm7CGrTZXht1KK9fApxzw0WUsGk8KpcWo4qjb8SM9zyTZIMxy5e80RuCg6bUmZpJaW0eqLJFsIF2q160IOKoDWBSFFW79yDB60ucVtNulcxkUvqnkepvIR4WXgpkXVbkPelDX8RZHg1a4Lr3a5H3rPF2hBG5enOsrUztkAz9E9CwstQcN1+Qp6mp+I6n+LzpZ0GpZXBIxPOpOJXybhPSrGTdDsKjZT7CbNJrfQUnNXNAW3AgczSrw/UkfWugcHti6FVBkCqQyOHptRI0cph0tzYozmprer+IUKs35LIcFcUP1HEQrQTGP0rT3Cr6JLbmkfvcQHeqQ4qBvM8qTtXxK",
+      "price": 400,
+      "isSoldOut": false
     }
   ]
 }
