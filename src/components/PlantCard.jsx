@@ -34,7 +34,7 @@ function PlantCard({ plant, setPlants }) {
     <li className="card" data-testid="plant-item">
       <img src={image} alt={name} />
       <h4>{name}</h4>
-      <p>Price: ${Number(price).toFixed(2)}</p>
+      <p>Price: {price}</p>
       {isSoldOut ? (
         <button onClick={handleToogleSold}>Out of Stock</button>
       ) : (

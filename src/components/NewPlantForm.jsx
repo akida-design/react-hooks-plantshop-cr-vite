@@ -12,17 +12,15 @@ function NewPlantForm({ setPlants }) {
     const newPlant = {
       name: name.trim(),
       image: image.trim(),
-      price: parseFloat(price),
-      isSoldOut: false,
+      price: price,
     };
 
     // simple validation
-    if (!newPlant.name || !newPlant.image || Number.isNaN(newPlant.price))
-      return;
+    if (!newPlant.name || !newPlant.image || newPlant.price === "") return;
 
     fetch("http://localhost:6001/plants", {
       method: "POST",
-      headers: { "Content-Type": "application.json" },
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify(newPlant),
     })
     .then((res) => {
